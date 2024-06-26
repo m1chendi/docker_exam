@@ -1,5 +1,7 @@
 FROM node:20.15
 
+LABEL authors="m1chendi"
+
 RUN mkdir -p /app
 
 WORKDIR /app
