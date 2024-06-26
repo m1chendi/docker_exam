@@ -1,0 +1,22 @@
+{
+  "name": "express-docker-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m1chendi/docker_exam.git"
+  },
+  "keywords": [],
+  "author": "m1chendi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m1chendi/docker_exam/issues"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
